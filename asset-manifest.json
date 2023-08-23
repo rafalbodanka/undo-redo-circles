@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/undo-redo-circles/static/css/main.420df155.css",
+    "main.js": "/undo-redo-circles/static/js/main.7c826d31.js",
+    "index.html": "/undo-redo-circles/index.html",
+    "main.420df155.css.map": "/undo-redo-circles/static/css/main.420df155.css.map",
+    "main.7c826d31.js.map": "/undo-redo-circles/static/js/main.7c826d31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.420df155.css",
+    "static/js/main.7c826d31.js"
+  ]
+}
